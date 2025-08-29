@@ -1,0 +1,35 @@
+# Starting Instructions for Copilot
+
+## Project Goal
+Create a uniform base template project for integrating Claude.AI and Copilot with GitHub for project management, technical development, and workflow automation. This template will be used as a starting point for future projects and can be tailored as needed.
+
+## Desired Workflow
+- Claude.AI acts as Project Manager, Prompt Designer, and documentation specialist.
+- Copilot acts as Lead Developer, Automation Specialist, and technical reviewer.
+- Both collaborate through GitHub by using issues, handoff templates, documentation files, and process protocols.
+- Handoff and context are managed using Markdown files and JSON state files in the repository.
+
+## Roles & Responsibilities
+- Claude.AI: Project planning, issue creation, protocol documentation, context handoff, summarization, and coordination.
+- Copilot: Technical implementation, code writing, workflow automation, review, and updating documentation/templates.
+
+## Key Constraints
+- Uniform template project.
+- GDPR, medical sector, no-code, automation friendly.
+- All other constraints to be added by future project forks.
+
+## Repository Structure Preferences
+- `docs/` for documentation and protocols.
+- `handoffs/` for handoff templates and session summaries.
+- `roles/` for role definitions and frameworks.
+- `templates/` for workflow and issue templates.
+- `project-state.json` for persistent project state.
+- `README.md` for project overview.
+
+## Starting Tasks
+- Generate initial documentation files and repo structure.
+- Draft initial issues for project milestones, handoff protocol, and role-switching guidelines.
+- Provide guidance on interacting with Claude.AI for project management and Copilot for technical execution.
+
+## References
+- Include all generated templates, frameworks, and protocols in the repository for use in future projects.
